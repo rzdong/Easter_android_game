@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">数独</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="game_start">数独游戏</string>
+    <string name="welcometosudoku">欢迎进入数独游戏</string>
+
+</resources>
